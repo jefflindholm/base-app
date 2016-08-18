@@ -1,0 +1,12 @@
+.business-card {
+    border: 1px solid LightGray;
+    padding: 4px;
+    text-align: left;
+    margin: 5px;
+}
+.business-card__title {
+    background-color: LightBlue;
+}
+.business-card-selected {
+    background-color: #bdc3c7;
+}

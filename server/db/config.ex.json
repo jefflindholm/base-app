@@ -1,0 +1,6 @@
+{
+    "user": "<your user>",
+    "password": "<your user database password>",
+    "database": "database",
+    "dbServer": "server"
+}

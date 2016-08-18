@@ -1,0 +1,24 @@
+.toolbar {
+    background-image: linear-gradient(to bottom, blue 0%, lightblue 100%);
+    align-items: center;
+}
+.title {
+    color: whitesmoke;
+    text-align: center;
+    align-self: center;
+}
+.user {
+    color: black;
+    margin-right: 10px;
+    text-align: center;
+    align-self: center;
+}
+.logout {
+    color: white;
+    align-self: center;
+    margin-right: 10px;
+}
+.image {
+    max-height: 28px;
+    margin-left: 10px;
+}
